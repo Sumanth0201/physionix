@@ -34,11 +34,12 @@ Just follow the steps below:
 ### Schematics
 ![Schematics](https://user-images.githubusercontent.com/123675167/229873061-d8c7acad-f5ce-4a66-b9ea-08cc2b337cba.png)
 ![UML](https://github.com/Sumanth0201/physionix/blob/main/flow%20diagram.png)
+[Facebook](https://www.facebook.com/profile.php?id=100091456045225&mibextid=ZbWKwL)
 
 # Contact Us 📧
 - This project is developed and maintained by :
   * [Sayan Bandyopadhyay](https://github.com/satanb4)
   * [Midhun Mathew](https://github.com/midhunjac) 
   * [Sri Krishna Sumanth](https://github.com/Sumanth0201)
-  * [Facebook](https://www.facebook.com/profile.php?id=100091456045225&mibextid=ZbWKwL)
+  
 
